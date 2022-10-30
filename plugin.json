@@ -1,0 +1,10 @@
+[
+  {
+    "name": "<repository name>",
+    "description": "<repository description>",
+    "manifestVersion": 1,
+    "pluginLists": [
+      "<rinzry.stream/0:/>"
+    ]
+  }
+]
